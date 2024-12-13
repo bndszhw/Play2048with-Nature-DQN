@@ -103,11 +103,14 @@ This project explores the use of Deep Q-Networks (DQN) to train an agent to play
    ```bash
    pip install -r requirements.txt
    ```
-3. Open the .ipynb file using Jupyter Notebook:
+I strongly recommend installing PyTorch from their [official website](https://pytorch.org/) to avoid potential issues during installation.  
+如果您想要在本地运行代码，我强烈建议您通过 PyTorch 的 [官网](https://pytorch.org/) 安装 PyTorch，以避免安装过程中遇到的潜在问题。
+
+4. Open the .ipynb file using Jupyter Notebook:
    ```bash
       jupyter notebook NatureDQN2048_v4.ipynb
    ```
-4. Run all cells sequentially
+5. Run all cells sequentially
 
 ---
 ## License
