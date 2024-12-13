@@ -109,7 +109,7 @@ This project explores the use of Deep Q-Networks (DQN) to train an agent to play
    ```
 4. Run all cells sequentially
 
-
-##License
+---
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
    
