@@ -111,5 +111,6 @@ This project explores the use of Deep Q-Networks (DQN) to train an agent to play
 
 ---
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-   
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
