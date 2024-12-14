@@ -10,6 +10,7 @@ This project explores the use of Deep Q-Networks (DQN) to train an agent to play
 
 ## 2048 Game
 If you want to play the game, run Thegame.py
+
 如果你想玩一下，运行Thegame.py
 
 ---
